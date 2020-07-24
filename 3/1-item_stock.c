@@ -6,17 +6,19 @@
 
 //  N-1        Item     1 ≤ N ≤ 100,000
 //  M           Stock   1 ≤ M ≤ 1,000,000,000
-// Input N M
 
+// NOTE Sample input
+
+// Input N M
 //  N 5
 //  M  15
 
-// Sample input
 // 5 15                                         
 // 1 1 2                                        
 // 2 1 3 1                                     
 // 1 2 1                                        
 // 2 4 3 1                                      
+
 int arr1 [] = {5,15};
 int arr2 [] = {1,1,2};
 int arr3 [] = {2,1,3,1};
